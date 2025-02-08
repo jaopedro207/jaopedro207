@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaopedro207
 - 👀 I’m interested in games, movies and codding;
-- 🌱 I’m currently learning JavaScript and bootstrap
+- 🌱 I’m currently learning JavaScript, react, tailwindcss and nextjs
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to cook
 
