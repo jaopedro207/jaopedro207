@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaopedro207
-- 👀 I’m interested in games, movies and codding;
-- 🌱 I’m currently learning JavaScript, react, tailwindcss and nextjs
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to cook
+- 👋 Olá!! sou o joão, muito prazer 😁
+- 👀 gosto muito de filmes de ficção, programar e tomar café ☕
+- 🌱 atualmente estou estudando desenvolvimento web e cyber segurança
+- 💻 JS | TS | PYTHON | C# | TERMINAL
+- ⚡ rumo aos 45 de braço 🦾
 
 <!---
 jaopedro207/jaopedro207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
