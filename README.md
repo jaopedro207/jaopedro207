@@ -1,7 +1,7 @@
 - 👋 Olá!! sou o joão, muito prazer 😁
 - 👀 gosto muito de filmes de ficção, programar e tomar café ☕
 - 🌱 atualmente estou estudando desenvolvimento web e cyber segurança
-- 💻 JS | TS | PYTHON | C# | TERMINAL
+- 💻 JS | TS | PYTHON | C++ | BASH
 - ⚡ rumo aos 45 de braço 🦾
 
 <!---
